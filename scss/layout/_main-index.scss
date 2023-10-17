@@ -1,0 +1,71 @@
+main {
+    background-color: black;
+    background-position: center;
+    background-size: 100px;
+}
+
+.fat-cat {
+    text-align: center;
+}
+.fat-cat img{
+    width: 500px;
+}
+.tienda-londres {
+    text-align: center;
+}
+.tienda-londres img{
+    width: 1000px;
+}
+
+.texto-40 h1{
+    color: rgb(155, 148, 148);
+    font-size: 20px;
+    font-family: 'Young Serif', serif;
+    font-style: oblique;
+}
+
+.grids {
+    display: grid;
+    width: 100%;
+    height: 400px;
+    grid-template-columns: repeat(3, 9.375rem  );
+    grid-row: 200px  200px 200px ;
+    justify-content: center;
+    align-content: center;  
+    grid-template-areas: 
+    "section1 section2 section3"
+    "section1 section2 section3"
+    "section1 section2 section3";
+    column-gap: 1.25rem;
+}
+.grids :hover{
+    color: lightcoral;
+}
+.menu-inicio-1 img{
+    width: 150px;
+}
+.menu-inicio-1 a{
+    font-size: 25px;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+.menu-inicio-2 img{
+    width: 150px;
+}
+
+.menu-inicio-2 a{
+    font-size: 25px;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.menu-inicio-3 img{
+    width: 150px;
+}
+.menu-inicio-3 a{
+    font-size: 25px;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+}

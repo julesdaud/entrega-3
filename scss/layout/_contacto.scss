@@ -1,0 +1,121 @@
+.mapa-location iframe{
+    width: 1000px;
+    height: 600 px  ;
+    align-items: center;
+}
+
+.mapa-location {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: white;
+    margin: 100px;
+    position: relative;
+    text-align: center;
+    font-size: 30px ;
+    font-family: phudu, cursive;
+}
+
+
+.texto-mapa{
+    text-align: center;
+    margin: 150px;
+}
+.texto-mapa h1{
+    color: #FF111E;   
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.texto-mapa h2{
+    font-family: 'Bebas Neue', sans-serif;
+    width: 100%;
+    color: lightgray;
+    text-align: center;
+}
+
+.whatsapp-fixed {
+    position: fixed;
+}
+.newsection {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.texto-box1 {
+        justify-content: center;
+        display: flex;
+        align-items: center;
+}
+
+
+.texto-box2 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.texto-box3 {
+    justify-content:center;
+    display: flex;
+    align-items: center;
+}
+
+.texto-box h1{
+    font-size:25px;   
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    height: 100%;
+}
+
+.texto-box h2{
+    font-size:25px;   
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+.texto-box h3{
+    font-size:25px;   
+    color: rgb(255, 255, 255);
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+}
+
+.input1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.input-h1 {
+    display: flex; 
+    width: 500px;
+    height: 30px; 
+}
+
+.input2 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.input-h2 {
+    display: flex;
+    width: 500px;
+    height: 30px;
+
+}
+
+.input3 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.input-h3{
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+}
+

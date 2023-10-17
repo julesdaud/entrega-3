@@ -1,0 +1,81 @@
+@media (min-width:0px) and (max-width:20rem){
+
+    .tienda-londres img{
+        width: 200px;
+    }
+    .navbar li a{
+        color: white;
+        font-family: 'Bebas Neue', sans-serif;  
+        font-size: 15px;
+        gap: 3.125rem;
+    }
+    .fat-cat img{
+        width: 150px;
+    }
+    .entregas-barra img{
+        width: 200px;
+    }
+    .texto-40 h1{
+        font-size: 10px;
+    }
+
+
+    .news-teller{
+        display: flex;
+        width: 320px;
+        height: 35px;
+    }
+
+    .box-teller {
+        display: flex;
+        width: 70px;    
+    }
+    .news-teller h1{
+        font-size: 15px;
+    }
+    .news-teller h2{
+        font-size: 15px;
+    }
+
+    footer { 
+
+        color: rgb(255, 255, 255);
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    
+    footer h1 {
+        font-size: 10px;  
+    }
+    
+    footer h2{
+        font-size: 10px;
+        
+    }
+    footer h3 {
+        width: 100px;
+    }
+    footer h3 img{
+        width: 15px;
+    }
+
+    footer h4 {
+        font-size: 10px;
+    }
+
+    .horarios-1 h1{
+        font-size: 10px;
+    }
+        /* NOSOTROS */
+        .willy-gonzalez img{
+            width: 100px;
+        }
+        
+        .texto-nosotros h1{
+            color: white;
+            font-size: 12px;
+            font-family: 'Bebas Neue', sans-serif;
+            color: lightgray;
+        }
+
+}
+
